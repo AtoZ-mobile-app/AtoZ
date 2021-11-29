@@ -8,6 +8,14 @@ avd 버전 : API(30), Target(Android 11.0)
 로그인, 회원가입, 게시판 : 파이어 베이스  
 가계부 : sqLite, dbhelper  
 
+
+역할 분담
+====================
+김준경 : 로그인 및 회원가입 구현
+박수경 : 가계부 구현
+이원우 : 게시판에 이용할 리사이클러뷰와 어댑터 구현
+하정현 : 게시판 구현
+
 설치 방법
 ====================
 git clone https://github.com/AtoZ-mobile-app/AtoZ.git
