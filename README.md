@@ -1,3 +1,13 @@
+개발 환경
+====================
+1.안드로이드 스튜디오
+사용 언어 : java
+avd 버전 : API(30), Target(Android 11.0)
+
+2.데이터 베이스 
+로그인, 회원가입, 게시판 : 파이어 베이스
+가계부 : sqLite, dbhelper
+
 설치 방법
 ====================
 git clone https://github.com/AtoZ-mobile-app/AtoZ.git
